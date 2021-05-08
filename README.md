@@ -1,5 +1,7 @@
 # M5Paper Sample
 
+![M5Paper](https://github.com/sparkgene/m5paper-home-sensor/blob/main/M5Paper.jpg)
+
 Fix these with your information.
 
 ```
@@ -16,3 +18,7 @@ const char *private_key = R"(-----BEGIN RSA PRIVATE KEY-----
 -----END RSA PRIVATE KEY-----
 )";
 ```
+
+Download icons from this site.
+
+https://iconmonstr.com/weather/
